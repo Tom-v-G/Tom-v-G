@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Will probably post my Arch configs here at some point.
+
 <!--
 **Tom-v-G/Tom-v-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
