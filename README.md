@@ -2,7 +2,7 @@
 
 I am an AI engineer interested in:
  - scripting
- - writing efficient GPU code
+ - optimizing code for GPU
  - anything AI really
  
 🌱 I’m currently learning
