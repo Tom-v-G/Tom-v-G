@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-Will probably post my Arch configs here at some point.
+I am an AI engineer interested in:
+ - scripting
+ - writing efficient GPU code
+ - anything AI really
+ 
+🌱 I’m currently learning
+ - Langchain
+ - Rust
+ - Vulkan
 
 <!--
 **Tom-v-G/Tom-v-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
