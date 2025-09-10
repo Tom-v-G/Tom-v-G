@@ -2,7 +2,7 @@
 
 I am an AI engineer who is interested in studying both the theoretical foundations and the practical application of AI technology. I am passionate about developing sustainable AI solutions that address societal challenges, while continuining to learn and improve my skillset.
 
-You can find my work on applying Structured State Space Models to partially observable reinforcement learning environments [here](https://github.com/Tom-v-G/SSMs-for-PO-RL) and mmy simple vulkan based rendering engine [here](https://github.com/Tom-v-G/Vulkan-Rendering-Engine).
+You can find my work on applying Structured State Space Models to partially observable reinforcement learning environments [here](https://github.com/Tom-v-G/SSMs-for-PO-RL) and my simple vulkan based rendering engine [here](https://github.com/Tom-v-G/Vulkan-Rendering-Engine).
 
 <!--
 **Tom-v-G/Tom-v-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
